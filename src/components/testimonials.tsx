@@ -10,13 +10,13 @@ const testimonials = [
          rating: 5,
     },
     {
-        name: "Yash Tyagi",
-        role: "Founder",
+        name: "Pradeep Kumar",
+        role: "Founder,Home Consultancy Pvt Ltd",
         content: "Very Positive Feedback from the user on recent delivered application, Thanks to RaHiva Team.",
         rating: 5,
     },
     {
-        name: "Ayush Singh",
+        name: "Aditya Singh",
         role: "Founder, Singh Restaurant",
         content: "Professional, responsive, and technically brilliant. RaHiva GLOBAL is not just a vendor, but a strategic partner in our growth.",
         rating: 5,

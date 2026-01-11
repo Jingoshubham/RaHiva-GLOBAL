@@ -29,10 +29,16 @@ const Abouts = [
         content: "We collaborate to design and deliver technology that is scalable secure, and efficient, Our focus is on building strong architecures and high-performance systems, By combining innovation with practical execution, we enable businessess to grow with confidence.",
     },
     {
+        name: "Mansi Kansal",
+        role: "Brand & Design Strategist",
+        content: "Design is more than visuals - It's about communication and impace, I focus on creating clean, meaningful, and brand-driven designs, Every design is crafted to align creativity with business goals.",
+    },
+    {
         name: "Ayush Rai",
         role: "Advisor",
         content: "We provide strategic guidance grounded in industry experience and practical insight, Our role is to support informed decision-making and long-term business growth, By aligning strategy, technology, and execution, we help organization move forward with clarity.",
     },
+    
 ];
 
 export function About() {

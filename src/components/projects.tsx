@@ -7,11 +7,11 @@ import Image from "next/image";
 
 const projects = [
     {
-        title: "Enterprise CRM System",
+        title: "Restaurant Website",
         category: "Web Application",
-        image: "https://images.unsplash.com/photo-1551288049-bebda4e38f71?q=80&w=2670&auto=format&fit=crop",
-        description: "A comprehensive CRM solution for a global logistics company tailored to streamline operations.",
-        link: "#crm-case-study"
+        image: "/hiralal.png",
+        description: "A fully responsive web solution delivered to our client, featuring a dynamic menu, integrated reservation system, and optimized UI for increased customer engagement.",
+        link: "https://www.hiralaldirasoi.in/"
     },
     {
         title: "E-Commerce Platform",

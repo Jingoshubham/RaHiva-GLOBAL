@@ -27,9 +27,9 @@ const features = [
 ];
 
 const stats = [
-    { value: "500+", label: "Clients Worldwide" },
-    { value: "98%", label: "Retention Rate" },
-    { value: "10+", label: "Years Experience" },
+    { value: "20+", label: "Clients Worldwide" },
+    { value: "93%", label: "Retention Rate" },
+    { value: "5+", label: "Years Experience" },
     { value: "24/7", label: "Support Available" },
 ];
 
