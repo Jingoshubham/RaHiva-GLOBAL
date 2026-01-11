@@ -1,0 +1,96 @@
+{
+  "meta": {
+    "project": "Daxter Consultancy",
+    "date": "2025-12-28",
+    "prepared_by": "Shubham Srivastwa"
+  },
+  "product_overview": "The Daxter Consultancy  Landing Page is a modern, responsive, and SEO-optimized web platform built with Next.js and React. It aims to represent Daxter Consultancy's brand and services to a global audience while converting visitors into qualified leads through a clean, professional, and engaging UI/UX design.",
+  "core_goals": [
+   
+  ],
+  "key_features": [
+    
+  ],
+  "user_flow_summary": [
+   
+  ],
+  "validation_criteria": [
+    
+  ],
+  "code_summary": {
+    "tech_stack": [
+      "TypeScript",
+      "Next.js",
+      "React",
+      "Tailwind CSS",
+      "Framer Motion"
+    ],
+    "features": [
+      {
+        "name": "Navbar",
+        "description": "Global navigation component with responsiveness and theme toggle",
+        "files": [
+          "src/components/navbar.tsx"
+        ]
+      },
+      {
+        "name": "Hero Section",
+        "description": "Landing page hero with animated headline and CTAs",
+        "files": [
+          "src/components/hero.tsx"
+        ]
+      },
+      {
+        "name": "Services Section",
+        "description": "Grid display of company services",
+        "files": [
+          "src/components/services.tsx"
+        ]
+      },
+      {
+        "name": "Features Section",
+        "description": "Key value propositions and statistics",
+        "files": [
+          "src/components/features.tsx"
+        ]
+      },
+      {
+        "name": "Projects Section",
+        "description": "Showcase of featured projects",
+        "files": [
+          "src/components/projects.tsx"
+        ]
+      },
+      {
+        "name": "Testimonials Section",
+        "description": "Customer reviews and social proof",
+        "files": [
+          "src/components/testimonials.tsx"
+        ]
+      },
+      {
+        "name": "Contact Form",
+        "description": "Contact form with validation and submission simulation",
+        "files": [
+          "src/components/contact.tsx"
+        ]
+      },
+      {
+        "name": "Footer",
+        "description": "Global footer with links and social icons",
+        "files": [
+          "src/components/footer.tsx"
+        ]
+      },
+      {
+        "name": "Theme Toggle",
+        "description": "Dark/Light mode switcher",
+        "files": [
+          "src/components/mode-toggle.tsx",
+          "src/components/theme-provider.tsx",
+          "src/app/globals.css"
+        ]
+      }
+    ]
+  }
+}
