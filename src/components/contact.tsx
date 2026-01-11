@@ -47,8 +47,8 @@ export function Contact() {
                                 </div>
                                 <div>
                                     <h3 className="font-bold text-lg mb-1">Email Us</h3>
-                                    <p className="text-muted-foreground">contact@Daxter-Global.com</p>
-                                    <p className="text-muted-foreground">support@Daxter-Global.com</p>
+                                    <p className="text-muted-foreground">rahivaglobal@gmail.com</p>
+                                    <p className="text-muted-foreground">Ex@.com</p>
                                 </div>
                             </div>
 
@@ -58,7 +58,7 @@ export function Contact() {
                                 </div>
                                 <div>
                                     <h3 className="font-bold text-lg mb-1">Call Us</h3>
-                                    <p className="text-muted-foreground">+91 (111) 111-1111</p>
+                                    <p className="text-muted-foreground">+91 9540982583</p>
                                 </div>
                             </div>
                         </div>
@@ -97,7 +97,7 @@ export function Contact() {
                                             id="name"
                                             required
                                             className="w-full px-4 py-3 rounded-lg bg-background border border-input focus:outline-none focus:ring-2 focus:ring-primary/20 focus:border-primary transition-all"
-                                            placeholder="Shubham Srivastwa"
+                                            placeholder="Your Name"
                                         />
                                     </div>
                                     <div className="space-y-2">
@@ -109,7 +109,7 @@ export function Contact() {
                                             type="email"
                                             required
                                             className="w-full px-4 py-3 rounded-lg bg-background border border-input focus:outline-none focus:ring-2 focus:ring-primary/20 focus:border-primary transition-all"
-                                            placeholder="Shubham@example.com"
+                                            placeholder="Your Email ID"
                                         />
                                     </div>
                                 </div>

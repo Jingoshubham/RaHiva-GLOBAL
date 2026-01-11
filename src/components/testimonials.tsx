@@ -4,20 +4,21 @@ import { Star } from "lucide-react";
 
 const testimonials = [
     {
-        name: "Himanshu Raj",
-        role: "CEO, The Founder.",
-        content: "I'm whst I'm known for: Priyashi",
+        name: "Rishi Raj",
+        role: "Owner, Restaurant.",
+        content: "Thanks for delivering Hiralal Di Rashoi Website , The UI/UX is outstanding and user feedback has been incredibly positive",
+         rating: 5,
     },
     {
         name: "Yash Tyagi",
-        role: "Marketing Director, GlobalReach",
-        content: "The mobile app they developed for us has a 4.8-star rating on the App Store. The UI/UX is outstanding and user feedback has been incredibly positive.",
+        role: "Founder",
+        content: "Very Positive Feedback from the user on recent delivered application, Thanks to RaHiva Team.",
         rating: 5,
     },
     {
-        name: "Ayush Rai",
-        role: "Founder, Innovation Labs",
-        content: "Professional, responsive, and technically brilliant. Sammunat is not just a vendor, but a strategic partner in our growth.",
+        name: "Ayush Singh",
+        role: "Founder, Singh Restaurant",
+        content: "Professional, responsive, and technically brilliant. RaHiva GLOBAL is not just a vendor, but a strategic partner in our growth.",
         rating: 5,
     },
 ];
