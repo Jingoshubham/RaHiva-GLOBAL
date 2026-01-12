@@ -5,6 +5,11 @@ import { Code, Smartphone, BarChart3, Video, Palette, Globe } from "lucide-react
 import Link from "next/link";
 
 const services = [
+     {
+        icon: <Globe className="h-10 w-10 text-primary" />,
+        title: "Consultancy Services",
+        description: "We offer comprehensive consultancy and manpower solutions to help businesses build strong teams, improve efficiency, adn achieve sustainable growth, Our approach combines strategic consulting with reliable manpower support tailored to your business needs..",
+    },
     {
         icon: <Globe className="h-10 w-10 text-primary" />,
         title: "Web Development",
@@ -22,8 +27,8 @@ const services = [
     },
     {
         icon: <Video className="h-10 w-10 text-primary" />,
-        title: "Video Editing",
-        description: "Professional video editing services to enhance your brand storytelling.",
+        title: "Portfolio Management Services",
+        description: "We offer professional portfolio management services designed to help individuals and businesses grow, protect, and optimize their investments, Our approach focuses on strategic planning , risk managemet, and long-term vlue creation based on your financial goals.",
     },
     {
         icon: <Palette className="h-10 w-10 text-primary" />,
@@ -63,12 +68,12 @@ export function Services() {
                             </div>
                             <h3 className="text-xl font-bold mb-3">{service.title}</h3>
                             <p className="text-muted-foreground mb-4">{service.description}</p>
-                            <Link
+                            {/* <Link
                                 href="#contact"
                                 className="text-primary font-medium hover:underline inline-flex items-center"
                             >
                                 Learn more
-                            </Link>
+                            </Link> */}
                         </motion.div>
                     ))}
                 </div>

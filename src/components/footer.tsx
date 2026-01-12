@@ -11,7 +11,7 @@ export function Footer() {
                     <div className="col-span-1 md:col-span-1">
                         <Link href="/" className="flex items-center gap-2 mb-4">
                             <div className="h-8 w-8 bg-primary rounded-lg flex items-center justify-center text-primary-foreground font-bold">
-                                S
+                                RG
                             </div>
                             <span className="text-xl font-bold tracking-tight">RaHiva GLOBAL</span>
                         </Link>

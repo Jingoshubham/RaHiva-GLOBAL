@@ -6,7 +6,7 @@ const Abouts = [
     {
         name: "Himanshu Raj",
         role: "Founder & CEO.",
-        content: "We believe technology and consultancy together create real business impact, Our mission is to deliver strategic guidance and reliable IT solutions thate help organizations grow,adapt, and succeed in a digital-first wold.",
+        content: "We believe technology and consultancy together create real business impact, Our mission is to deliver strategic guidance and reliable IT solutions that help organizations grow,adapt, and succeed in a digital-first wold.",
     },
     {
         name: "Sandeep Gupta",
